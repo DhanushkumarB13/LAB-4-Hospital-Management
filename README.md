@@ -18,7 +18,8 @@ This application provides a way to record this information and to access these i
 
 ## SEQUENCE DIAGRAM
 
-<img width="1063" height="760" alt="image" src="https://github.com/user-attachments/assets/33edd16e-8e9c-41b7-8f05-61f7d6b8e14e" />
+<img width="780" height="530" alt="image" src="https://github.com/user-attachments/assets/98ad071b-b18f-4e4c-9783-cacad6bc0452" />
+
 
 ## ACTIVITY DIAGRAM
 
